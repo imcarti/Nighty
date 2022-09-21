@@ -1,0 +1,20 @@
+{
+  "token": "token-here",
+  "password": "password-here",
+  "prefix": ".",
+  "streamurl": "https://www.youtube.com/watch?v=SLj3GaUf6yo",
+  "afkmessage": "Sorry, I am not here right now, DM me later :)",
+  "afkimageurl": "image-url-here",
+  "deletetimer": "40",
+  "mode": "1",
+  "errorlog": "message",
+  "riskmode": "off",
+  "dmlogger": "off",
+  "theme": "nighty.json",
+  "language": "english.json",
+  "logins": {},
+  "startup_status": "online",
+  "font": "standard",
+  "pagination": true,
+  "auto_backup": false
+}

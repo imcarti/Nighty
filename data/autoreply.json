@@ -1,0 +1,16 @@
+{
+  "autoreply": [
+    {
+      "profile": "testing profile",
+      "guild_id": "some random guild id",
+      "scan": "some random text",
+      "reply": "some random response"
+    }
+  ],
+  "pingreply": [
+    {
+      "reply": "Hi",
+      "delay": 5
+    }
+  ]
+}

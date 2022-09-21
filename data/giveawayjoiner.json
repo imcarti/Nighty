@@ -1,0 +1,20 @@
+{
+  "giveawayjoiner": true,
+  "delay_in_minutes": 10,
+  "blacklisted_words": [
+    "bot",
+    "ban",
+    "test",
+    "self",
+    "kick",
+    "mute",
+    "sb",
+    "auto",
+    "react"
+  ],
+  "blacklisted_serverids": [
+    "754047076534452354",
+    "754047076534452354"
+  ],
+  "custom": {}
+}

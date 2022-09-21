@@ -1,0 +1,19 @@
+{
+  "server_removal": "webhook-url-here",
+  "roleupdates": "webhook-url-here",
+  "nickupdates": "webhook-url-here",
+  "friendevents": "webhook-url-here",
+  "friendupdates": "webhook-url-here",
+  "nitrocodes": "webhook-url-here",
+  "redeemednitro": "webhook-url-here",
+  "giveaways": "webhook-url-here",
+  "won-giveaways": "webhook-url-here",
+  "pings": "webhook-url-here",
+  "ghostpings": "webhook-url-here",
+  "sbdetection": "webhook-url-here",
+  "tickets": "webhook-url-here",
+  "dmlogger": "webhook-url-here",
+  "protection": "webhook-url-here",
+  "others": "webhook-url-here",
+  "overseer": "webhook-url-here"
+}

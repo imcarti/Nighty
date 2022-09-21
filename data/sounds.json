@@ -1,0 +1,13 @@
+{
+  "connected": "on",
+  "disconnected": "on",
+  "giveaway_found": "on",
+  "giveaway_won": "on",
+  "nickupdates": "on",
+  "nitro_sniped": "on",
+  "pinged": "on",
+  "relationship": "on",
+  "roleupdates": "on",
+  "tickets": "on",
+  "typing": "on"
+}

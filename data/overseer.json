@@ -1,0 +1,15 @@
+{
+  "All": {
+    "overseer": false,
+    "servernotify": false,
+    "autoban": false,
+    "autokick": false,
+    "autoleave": false
+  },
+  "DiscordStaff": {
+    "servernotify": true,
+    "autoleave": false,
+    "exitnighty": false
+  },
+  "Users": {}
+}
